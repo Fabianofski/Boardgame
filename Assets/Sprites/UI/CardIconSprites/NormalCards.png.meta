@@ -1,0 +1,1331 @@
+fileFormatVersion: 2
+guid: abbb244888be2764cb477fee5bd4071c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2350775852181390985
+    second: NormalCards_0
+  - first:
+      213: -7492876435079046512
+    second: NormalCards_1
+  - first:
+      213: 8081940421991124070
+    second: NormalCards_2
+  - first:
+      213: 6285702718470347176
+    second: NormalCards_0
+  - first:
+      213: -2806980836533428237
+    second: NormalCards_1
+  - first:
+      213: 7526687725222749959
+    second: NormalCards_2
+  - first:
+      213: 1867847219832126595
+    second: NormalCards_3
+  - first:
+      213: 2618425237286788648
+    second: NormalCards_4
+  - first:
+      213: -7702941247179155897
+    second: NormalCards_5
+  - first:
+      213: -2046365800735234945
+    second: NormalCards_6
+  - first:
+      213: 4507170968114517752
+    second: NormalCards_7
+  - first:
+      213: 5993095204374291827
+    second: NormalCards_3
+  - first:
+      213: -7325109696714705987
+    second: NormalCards_4
+  - first:
+      213: -6284660523802844281
+    second: NormalCards_5
+  - first:
+      213: -3409544257554013548
+    second: NormalCards_6
+  - first:
+      213: -7774023287739756387
+    second: NormalCards_7
+  - first:
+      213: -4397599546577038648
+    second: NormalCards_8
+  - first:
+      213: -3438718130901099662
+    second: NormalCards_9
+  - first:
+      213: 3868093710451024163
+    second: NormalCards_10
+  - first:
+      213: -6483485672733107192
+    second: NormalCards_11
+  - first:
+      213: 4028006323761580479
+    second: NormalCards_12
+  - first:
+      213: 5727310578136098571
+    second: NormalCards_8
+  - first:
+      213: -625062075602251437
+    second: NormalCards_9
+  - first:
+      213: -1962704047913253463
+    second: NormalCards_10
+  - first:
+      213: -8413935789251611057
+    second: NormalCards_11
+  - first:
+      213: -8298786184220537620
+    second: NormalCards_12
+  - first:
+      213: -3873944066316463786
+    second: NormalCards_13
+  - first:
+      213: 2485377532550927949
+    second: NormalCards_14
+  - first:
+      213: 6585031152214320370
+    second: NormalCards_15
+  - first:
+      213: 4617077749463204413
+    second: NormalCards_16
+  - first:
+      213: 4267788596678312809
+    second: NormalCards_17
+  - first:
+      213: 6100774475549361996
+    second: NormalCards_18
+  - first:
+      213: 297032052315945020
+    second: NormalCards_19
+  - first:
+      213: -7226579172830642799
+    second: NormalCards_20
+  - first:
+      213: 764081835108926450
+    second: NormalCards_21
+  - first:
+      213: -9169459352941244993
+    second: NormalCards_22
+  - first:
+      213: -4038647882799460500
+    second: NormalCards_23
+  - first:
+      213: 2128141965436753036
+    second: NormalCards_13
+  - first:
+      213: 2284336858681242374
+    second: NormalCards_14
+  - first:
+      213: 5689790014378054654
+    second: NormalCards_15
+  - first:
+      213: 7616254786770249634
+    second: NormalCards_16
+  - first:
+      213: 2087771859852729606
+    second: NormalCards_17
+  - first:
+      213: 2694552269072231843
+    second: NormalCards_18
+  - first:
+      213: -4006089851855547696
+    second: NormalCards_19
+  - first:
+      213: 1451974651676318097
+    second: NormalCards_20
+  - first:
+      213: 2565096424000750531
+    second: NormalCards_21
+  - first:
+      213: -6504735220485579689
+    second: NormalCards_22
+  - first:
+      213: -4115024584458240368
+    second: NormalCards_23
+  - first:
+      213: -7497228310371030307
+    second: NormalCards_24
+  - first:
+      213: -7450476723035138211
+    second: NormalCards_25
+  - first:
+      213: -6975537441053012900
+    second: NormalCards_26
+  - first:
+      213: 9166285882759597066
+    second: NormalCards_27
+  - first:
+      213: 5997541328747000386
+    second: NormalCards_28
+  - first:
+      213: -3134342373357941245
+    second: NormalCards_29
+  - first:
+      213: 4642799676871656533
+    second: NormalCards_30
+  - first:
+      213: -7404862793750881936
+    second: NormalCards_31
+  - first:
+      213: 6377248241189780880
+    second: NormalCards_32
+  - first:
+      213: 2222334660152335584
+    second: NormalCards_33
+  - first:
+      213: 4268914119142767810
+    second: NormalCards_34
+  - first:
+      213: 5408820188862207979
+    second: NormalCards_35
+  - first:
+      213: -3535559995363550664
+    second: NormalCards_36
+  - first:
+      213: 6716278332238775823
+    second: NormalCards_37
+  - first:
+      213: -8971990959789662695
+    second: NormalCards_38
+  - first:
+      213: 4281469072357903351
+    second: NormalCards_39
+  - first:
+      213: -7855629805881628367
+    second: NormalCards_40
+  - first:
+      213: 4068907993357696650
+    second: NormalCards_41
+  - first:
+      213: -6030543753835158542
+    second: NormalCards_42
+  - first:
+      213: -7985889067689296380
+    second: NormalCards_43
+  - first:
+      213: -7462750070007039519
+    second: NormalCards_44
+  - first:
+      213: 2773197677348314660
+    second: NormalCards_45
+  - first:
+      213: 638517516357503107
+    second: NormalCards_46
+  - first:
+      213: -2454149069920669096
+    second: NormalCards_47
+  - first:
+      213: -8738479554866890433
+    second: NormalCards_48
+  - first:
+      213: -7737805241004669350
+    second: NormalCards_49
+  - first:
+      213: -6538763082328539885
+    second: NormalCards_50
+  - first:
+      213: -4105785010191475116
+    second: NormalCards_51
+  - first:
+      213: 5770616083763421314
+    second: NormalCards_52
+  - first:
+      213: -5627979944459860890
+    second: NormalCards_53
+  - first:
+      213: -1052721535976868215
+    second: NormalCards_54
+  - first:
+      213: 622375015052510269
+    second: NormalCards_55
+  - first:
+      213: -8285600524879784284
+    second: NormalCards_56
+  - first:
+      213: 5990091014188668714
+    second: NormalCards_57
+  - first:
+      213: -1338998272553340204
+    second: NormalCards_58
+  - first:
+      213: 182808565462075978
+    second: NormalCards_59
+  - first:
+      213: -4842609738001264819
+    second: NormalCards_60
+  - first:
+      213: -1676599413700865025
+    second: NormalCards_61
+  - first:
+      213: -8945127448617424054
+    second: NormalCards_62
+  - first:
+      213: 9030002784511533359
+    second: NormalCards_63
+  - first:
+      213: -8122852388868672676
+    second: NormalCards_64
+  - first:
+      213: -6984931122973091762
+    second: NormalCards_65
+  - first:
+      213: 8489658655000117734
+    second: NormalCards_66
+  - first:
+      213: 6618313335467588972
+    second: NormalCards_67
+  - first:
+      213: 7538759191533238989
+    second: NormalCards_68
+  - first:
+      213: -5158927657263645399
+    second: NormalCards_69
+  - first:
+      213: 6026168412712005963
+    second: NormalCards_70
+  - first:
+      213: -2298000096472621177
+    second: NormalCards_71
+  - first:
+      213: -1213129790454850647
+    second: NormalCards_72
+  - first:
+      213: 8739431158307010697
+    second: NormalCards_73
+  - first:
+      213: -1821870552418456698
+    second: NormalCards_74
+  - first:
+      213: 58873203515624534
+    second: NormalCards_75
+  - first:
+      213: 5393249829279986768
+    second: NormalCards_76
+  - first:
+      213: -6605843292594669983
+    second: NormalCards_77
+  - first:
+      213: -6664164588743940068
+    second: NormalCards_78
+  - first:
+      213: 7804402017301002903
+    second: NormalCards_79
+  - first:
+      213: -7271526539591090956
+    second: NormalCards_80
+  - first:
+      213: 8255527231846449701
+    second: NormalCards_81
+  - first:
+      213: -3610470394516756741
+    second: NormalCards_82
+  - first:
+      213: -6035587666166452332
+    second: NormalCards_83
+  - first:
+      213: 4225663674640969228
+    second: NormalCards_24
+  - first:
+      213: 5756947647635990002
+    second: NormalCards_25
+  - first:
+      213: 1880668018338028407
+    second: NormalCards_26
+  - first:
+      213: 1371333313474746272
+    second: NormalCards_27
+  - first:
+      213: 5971523149630980447
+    second: NormalCards_28
+  - first:
+      213: 4159203415802116216
+    second: NormalCards_29
+  - first:
+      213: -5408352987618995362
+    second: NormalCards_30
+  - first:
+      213: 5994324592216927148
+    second: NormalCards_31
+  - first:
+      213: -4649369266157885066
+    second: NormalCards_32
+  - first:
+      213: 2761130283247955746
+    second: NormalCards_33
+  - first:
+      213: 6109640850641800304
+    second: NormalCards_34
+  - first:
+      213: 717746277349019833
+    second: NormalCards_35
+  - first:
+      213: 1527257564609460429
+    second: NormalCards_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormalCards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d122c15d4b3750800000000000000
+      internalID: 6285702718470347176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff981b1dc99b09d0800000000000000
+      internalID: -2806980836533428237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e135ab9a247860800000000000000
+      internalID: 7526687725222749959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375a3d9e550cb2350800000000000000
+      internalID: 5993095204374291827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3fc8a7a8bf75a90800000000000000
+      internalID: -7325109696714705987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 240
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783afc81d8668c8a0800000000000000
+      internalID: -6284660523802844281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922582ff8ddea0d0800000000000000
+      internalID: -3409544257554013548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 240
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9058a2220f1d1490800000000000000
+      internalID: -7774023287739756387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07a32050ae7b7f40800000000000000
+      internalID: 5727310578136098571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 180
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d82d9a555357f0800000000000000
+      internalID: -625062075602251437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5c8e8311313c4e0800000000000000
+      internalID: -1962704047913253463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4636b68af1bb3b80800000000000000
+      internalID: -8413935789251611057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec8d9e2fe9c4dc80800000000000000
+      internalID: -8298786184220537620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 180
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84957997dda88d10800000000000000
+      internalID: 2128141965436753036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603f601254893bf10800000000000000
+      internalID: 2284336858681242374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 180
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3919d4fd136fe40800000000000000
+      internalID: 5689790014378054654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72f4c306f52b960800000000000000
+      internalID: 7616254786770249634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 120
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d149ee17149fc10800000000000000
+      internalID: 2087771859852729606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ade5ca2309f46520800000000000000
+      internalID: 2694552269072231843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 120
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d25ad141828768c0800000000000000
+      internalID: -4006089851855547696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199d908b043762410800000000000000
+      internalID: 1451974651676318097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 120
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3803f6b9d099320800000000000000
+      internalID: 2565096424000750531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1cf0d7c98ab5a0800000000000000
+      internalID: -6504735220485579689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 120
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09efd5951fe74e6c0800000000000000
+      internalID: -4115024584458240368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e2f3b39b294aa30800000000000000
+      internalID: 4225663674640969228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f52dd74269c4ef40800000000000000
+      internalID: 5756947647635990002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bd9753999791a10800000000000000
+      internalID: 1880668018338028407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7525a0264f70310800000000000000
+      internalID: 1371333313474746272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 60
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c6c58aac1fd250800000000000000
+      internalID: 5971523149630980447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 60
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f973687578b930800000000000000
+      internalID: 4159203415802116216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e531c09cc9ba1f4b0800000000000000
+      internalID: -5408352987618995362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 60
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab6a73157e103350800000000000000
+      internalID: 5994324592216927148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796a0d294f1a7fb0800000000000000
+      internalID: -4649369266157885066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f619f0d51815620800000000000000
+      internalID: 2761130283247955746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c48bfbbfdc9c450800000000000000
+      internalID: 6109640850641800304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b05f3cbf62f5f900800000000000000
+      internalID: 717746277349019833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8331bc9a8e13510800000000000000
+      internalID: 1527257564609460429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06cebd0f83053d50800000000000000
+      internalID: 6716278332238775823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e98b9f1c51d7380800000000000000
+      internalID: -8971990959789662695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalCards_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbc6b6ef65da6b30800000000000000
+      internalID: 4281469072357903351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

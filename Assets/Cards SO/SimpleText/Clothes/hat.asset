@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
+  m_Name: hat
+  m_EditorClassIdentifier: 
+  Title: Trinke wenn..
+  Description: du einen Hut an hast!
+  CardSprite: {fileID: -4038647882799460500, guid: abbb244888be2764cb477fee5bd4071c,
+    type: 3}
+  Color: {r: 0.9411765, g: 1, b: 0, a: 0.4}

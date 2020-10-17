@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
+  m_Name: Move-1PointsForward
+  m_EditorClassIdentifier: 
+  Title: Pech gehabt..
+  Description: "Gehe 1 Feld zur\xFCck."
+  CardSprite: {fileID: -3055140421623572823, guid: da0ca559b4fe2a8469ec133a8a5cda4d,
+    type: 3}
+  Color: {r: 1, g: 0, b: 0.047058824, a: 0.4}
