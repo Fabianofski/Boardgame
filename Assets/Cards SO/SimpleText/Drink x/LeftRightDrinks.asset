@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: LeftRightDrinks
   m_EditorClassIdentifier: 
-  Title: 
+  Title: Mein rechter Platz ist leer..
   Description: Dein rechter und linker Nebensitzer trinkt einen.
   CardSprite: {fileID: 4268914119142767810, guid: abbb244888be2764cb477fee5bd4071c,
     type: 3}

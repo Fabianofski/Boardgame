@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: FlipCoin
   m_EditorClassIdentifier: 
   Title: Challenge!
-  Description: Werfe eine Muenze! Liegst du falsch trinkst du!
+  Description: "Werfe eine M\xFCnze! Liegst du falsch, trinkst du!"
   CardSprite: {fileID: -4397599546577038648, guid: abbb244888be2764cb477fee5bd4071c,
     type: 3}
   Color: {r: 0.9411765, g: 1, b: 0, a: 0.4}
