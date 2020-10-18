@@ -29,9 +29,8 @@ public class ActionCard : MonoBehaviour
 
     public void ReceiveActionCall()
     {
-        ShowCard();
-        InitializeCard();
-
+        Invoke("ShowCard", .5f);
+        Invoke("InitializeCard", .5f);
     }
 
 
