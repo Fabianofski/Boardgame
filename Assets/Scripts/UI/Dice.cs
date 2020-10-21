@@ -47,7 +47,7 @@ public class Dice : MonoBehaviour
     {
         IterationsIndex++;
         yield return new WaitForSeconds(timebtwDice);
-        SumEyes = Random.Range(1, maxEyes);
+        SumEyes = Random.Range(1, maxEyes + 1);
 
         if (IterationsIndex <= Iterations)
             StartCoroutine(RollDice());

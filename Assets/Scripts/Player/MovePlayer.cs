@@ -53,7 +53,7 @@ public class MovePlayer : MonoBehaviour
         if (!RunSound.isPlaying)
             RunSound.Play();
 
-        if (Input.GetMouseButtonUp(0))
+        if (Input.GetMouseButtonDown(0))
             Skip();
 
         if (playerStatsContainer.currentWaypoint >= waypointContainer.waypoints.Length) 
@@ -159,7 +159,6 @@ public class MovePlayer : MonoBehaviour
     void Skip()
     {
         PlayerIsMoving = false;
-        Debug.Log("Skip to " + TargetField);
         transform.position = waypointContainer.waypoints[TargetField - 1].position + targetOffset;
         playerStatsContainer.currentWaypoint = TargetField;
     }

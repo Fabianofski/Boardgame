@@ -73,7 +73,7 @@ public class CardActions : MonoBehaviour
 
     public void SwitchPlayerWithLastPlayer()
     {
-        SwitchPositionOfPlayers(leaderboard.PlayersSorted[leaderboard.PlayersSorted.Length - 1]);
+        SwitchPositionOfPlayers(leaderboard.PlayersSorted[leaderboard.PlayersSorted.Count - 1]);
     }
 
     private PlayerStatsContainer Player1Stats, Player2Stats;

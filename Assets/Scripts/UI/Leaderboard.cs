@@ -1,91 +1,71 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using System.Linq;
 using TMPro;
 
 public class Leaderboard : MonoBehaviour
 {
     private GameController gamecontroller;
-    //[HideInInspector]
-    public List<PlayerStatsContainer> playerStats;
-    //[HideInInspector]
-    public List<PlayerStatsContainer> tempStats;
-    //[HideInInspector]
-    public PlayerStatsContainer[] playersStatsSorted;
+    public List<GameObject> tempList;
 
     [Header("Leaderboard")]
     public GameObject[] Players;
-    public GameObject[] PlayersSorted;
+    public List<GameObject> PlayersSorted;
     public Color[] LeaderboardColors;
-    int index;
 
     void Start()
     {
         gamecontroller = GetComponent<GameController>();
         Players = gamecontroller.Players;
-        playersStatsSorted = new PlayerStatsContainer[Players.Length];
-        PlayersSorted = new GameObject[Players.Length];
-
-        for (int i = 0; i < Players.Length; i++)
-        {
-            playerStats.Add(Players[i].GetComponent<PlayerStatsContainer>());
-        }
     }
 
     void Update()
     {
         if(!gamecontroller.GameEnded)
-            UpdateLeaderboard();
+        UpdateLeaderboard();
     }
+
     public void UpdateLeaderboard()
     {
-        playersStatsSorted = new PlayerStatsContainer[Players.Length];
-        PlayersSorted = new GameObject[Players.Length];
-        index = 0;
-        
-        for (int i = 0; i < Players.Length; i++)
+        PlayersSorted = new List<GameObject>(Players.Length);
+
+        GetAllPlayersNotInGoal();
+        GetAllPlayersInGoal();
+
+        tempList = tempList.OrderByDescending(x => x.GetComponent<PlayerStatsContainer>().currentWaypoint).ToList();
+        foreach(GameObject go in tempList)
         {
-            if(!gamecontroller.PlayerReachedEnd[i])
-                tempStats.Add(playerStats[i]);
+            PlayersSorted.Add(go);
         }
-
-        for (int i = 0; i < gamecontroller.PlayerInGoalInOrder.Count; i++)
-        {
-            playersStatsSorted[i] = gamecontroller.PlayerInGoalInOrder[i].GetComponent<PlayerStatsContainer>();
-            PlayersSorted[i] = gamecontroller.PlayerInGoalInOrder[i];
-            index++;
-        }
-
-
-        for (int i = index; i < Players.Length; i++) // Loop through every Rank on Leaderboard
-        {
-            playersStatsSorted[i] = tempStats[0];
-            PlayersSorted[i] = tempStats[0].gameObject;
-            PlayerStatsContainer storedStat = tempStats[0];
-
-            for (int z = 0; z < tempStats.Count; z++) // Loop through every Player not already sorted
-            {
-                if (playersStatsSorted[i].currentWaypoint < tempStats[z].currentWaypoint)
-                {
-                    playersStatsSorted[i] = tempStats[z];
-                    PlayersSorted[i] = playersStatsSorted[i].gameObject;
-                    tempStats.RemoveAt(z);
-                }
-            }
-
-            if(storedStat == playersStatsSorted[i])
-                tempStats.RemoveAt(0);
-        }
+        tempList.Clear();
 
         UpdateLeaderboardDisplay();
+    }
+
+    private void GetAllPlayersInGoal()
+    {
+        for (int i = 0; i < gamecontroller.PlayerInGoalInOrder.Count; i++)
+        {
+            PlayersSorted.Add(gamecontroller.PlayerInGoalInOrder[i]);
+        }
+    }
+
+    private void GetAllPlayersNotInGoal()
+    {
+        for (int i = 0; i < Players.Length; i++)
+        {
+            if (!gamecontroller.PlayerReachedEnd[i])
+                tempList.Add(Players[i]);
+        }
     }
 
     void UpdateLeaderboardDisplay()
     {
         for (int i = 0; i < Players.Length; i++)
         {
-            TextMeshProUGUI text = playersStatsSorted[i].LeaderboardDisplay.GetComponentInChildren<TextMeshProUGUI>();
+            PlayerStatsContainer playerstats = PlayersSorted[i].GetComponent<PlayerStatsContainer>();
+            TextMeshProUGUI text = playerstats.LeaderboardDisplay.GetComponentInChildren<TextMeshProUGUI>();
             text.text = i + 1 + ".";
             text.color = LeaderboardColors[3];
 

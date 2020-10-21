@@ -53,8 +53,11 @@ public class ActionCard : MonoBehaviour
         switch (cardtype)
         {
             case CardContainer.CardType.TextCard:
-                index = Random.Range(0, cardContainer.TextCards.Length);
+                index = Random.Range(0, cardContainer.TextCards.Count);
                 card = cardContainer.TextCards[index];
+                cardContainer.UsedTextCards.Add(cardContainer.TextCards[index]);
+                cardContainer.TextCards.RemoveAt(index);
+                cardContainer.CheckIfAllCardsUsed();
                 break;
 
             case CardContainer.CardType.SpecificCard:

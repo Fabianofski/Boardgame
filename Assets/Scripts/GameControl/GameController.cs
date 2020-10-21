@@ -87,7 +87,6 @@ public class GameController : MonoBehaviour
             DisOrEnablePlayersTurnImage();
         }
 
-        Debug.Log("NextMove");
         SkipPlayerIfPlayerPassesTurn();
         SkipIfPlayerReachedEnd();
         CheckIfAllPlayersReachedGoal();
