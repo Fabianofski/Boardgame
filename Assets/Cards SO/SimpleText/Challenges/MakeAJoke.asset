@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: MakeAJoke
   m_EditorClassIdentifier: 
-  Title: Challenge!
+  Title: Challengetime!
   Description: "Erz\xE4hle einen Witz. Wer lacht, trinkt!"
   CardSprite: {fileID: 3868093710451024163, guid: abbb244888be2764cb477fee5bd4071c,
     type: 3}

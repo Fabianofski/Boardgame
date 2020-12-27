@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: Tshirt
   m_EditorClassIdentifier: 
-  Title: Kleidung!
+  Title: Spieglein, Spieglein an der Wand...
   Description: Jeder, der ein T-Shirt an hat, trinkt.
   CardSprite: {fileID: -7226579172830642799, guid: abbb244888be2764cb477fee5bd4071c,
     type: 3}

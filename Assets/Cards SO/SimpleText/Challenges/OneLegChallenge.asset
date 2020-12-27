@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: OneLegChallenge
   m_EditorClassIdentifier: 
-  Title: Challenge!
+  Title: Challengetime!
   Description: "Alle stellen sich auf ein Bein. Wer als erstes umf\xE4llt trinkt!"
   CardSprite: {fileID: 0}
   Color: {r: 0.9411765, g: 1, b: 0, a: 0.4}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: RockPaperScissor
   m_EditorClassIdentifier: 
-  Title: Challenge!
+  Title: Challengetime!
   Description: Spiele Schere, Stein, Papier mit einem Gegner deiner Wahl. Der Verlierer
     trinkt!
   CardSprite: {fileID: -6483485672733107192, guid: abbb244888be2764cb477fee5bd4071c,

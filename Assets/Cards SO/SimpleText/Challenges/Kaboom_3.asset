@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: Kaboom_3
   m_EditorClassIdentifier: 
-  Title: Challenge!
+  Title: Challengetime!
   Description: "Es geht Reihe rum. Alle Spieler m\xFCssen ab eins aufw\xE4rts z\xE4hlen.
     Bei jeder Zahl die durch 3 teilbar ist muss man an Stelle der Zahl Kaboom sagen.
     Wer verkackt trinkt."

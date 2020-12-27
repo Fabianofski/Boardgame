@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: Rime
   m_EditorClassIdentifier: 
-  Title: Challenge!
+  Title: Challengetime!
   Description: "Gebe ein Wort vor. Jeder Spieler muss nacheinander einen Reim auf
     dieses Wort finden. Solange, bis einem kein Reim mehr einf\xE4llt. Der trinkt."
   CardSprite: {fileID: 2485377532550927949, guid: abbb244888be2764cb477fee5bd4071c,

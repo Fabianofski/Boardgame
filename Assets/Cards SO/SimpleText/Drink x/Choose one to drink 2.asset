@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: Choose one to drink 2
   m_EditorClassIdentifier: 
-  Title: "Wen w\xE4hlst du?"
+  Title: Die Qual der Wahl
   Description: "Verteile 2 Schl\xFCcke."
   CardSprite: {fileID: -2046365800735234945, guid: abbb244888be2764cb477fee5bd4071c,
     type: 3}

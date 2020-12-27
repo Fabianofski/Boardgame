@@ -129,6 +129,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 8154918373603378591}
+        m_MethodName: PopSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &819641870840489186
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,6 +269,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 8154918373603378591}
+        m_MethodName: PopSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &819641870934400325
 GameObject:
   m_ObjectHideFlags: 0
@@ -268,6 +290,7 @@ GameObject:
   m_Component:
   - component: {fileID: 819641870934400330}
   - component: {fileID: 819641870934400331}
+  - component: {fileID: 8154918373603378591}
   m_Layer: 5
   m_Name: CustomizationButtons (1)
   m_TagString: Untagged
@@ -311,3 +334,19 @@ MonoBehaviour:
   animator: {fileID: 0}
   CharIndex: 0
   TotalCharCount: 5
+--- !u!114 &8154918373603378591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819641870934400325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3536ba77579d0f244ac1fa75e197062f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MainMenu: {fileID: 0}
+  OptionsMenu: {fileID: 0}
+  anim: {fileID: 0}
+  pop: {fileID: 5732226881521453318, guid: 8e38e21618eb9aa4b8aa84761b57c9d9, type: 3}

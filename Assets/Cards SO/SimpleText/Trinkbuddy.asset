@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a6663ba7665b643a3ea5624ce46018, type: 3}
   m_Name: Trinkbuddy
   m_EditorClassIdentifier: 
-  Title: Buddy!
+  Title: Best Buddies!
   Description: "W\xE4hle jemanden als deinen Trinkbuddy. Immer wenn dein Trinkbuddy
     trinken muss, musst du auch trinken und umgekehrt."
   CardSprite: {fileID: 6716278332238775823, guid: abbb244888be2764cb477fee5bd4071c,
