@@ -17,3 +17,4 @@ MonoBehaviour:
   CardSprite: {fileID: -1607676648001689437, guid: f370c937424990847b60530ae93ee11c,
     type: 3}
   Color: {r: 1, g: 0.9561808, b: 0, a: 0.4}
+  ID: 13

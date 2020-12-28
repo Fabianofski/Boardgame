@@ -16,3 +16,4 @@ MonoBehaviour:
   Description: "Gehe zur\xFCck zum Start!"
   CardSprite: {fileID: 21300000, guid: c1df99b45d0896f44a91262178f67b82, type: 3}
   Color: {r: 0.37254903, g: 0, b: 1, a: 0.4}
+  ID: 9

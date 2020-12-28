@@ -341,7 +341,7 @@ TextureImporter:
         width: 90
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -349,6 +349,27 @@ TextureImporter:
       bones: []
       spriteID: 522944a7de22477a0800000000000000
       internalID: -6380436368723242459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtons_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 16
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451222d8a89a4fb50800000000000000
+      internalID: 6626107364307247444
       vertices: []
       indices: 
       edges: []

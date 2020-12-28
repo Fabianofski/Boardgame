@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class StartGame : MonoBehaviour
 {
@@ -30,8 +31,19 @@ public class StartGame : MonoBehaviour
 
     void Awake()
     {
-        if (SceneManager.GetActiveScene().buildIndex == 0)
-            StartCoroutine(PickRandomChar());
+        if (SceneManager.GetActiveScene().buildIndex != 0)
+            return;
+            
+        StartCoroutine(PickRandomChar());
+
+        if (PlayerPrefs.GetString("language") == "")
+        {
+            PlayerPrefs.SetString("language", "EN");
+            PlayerPrefs.SetInt("languageValue", 0);
+        }
+
+        FindObjectOfType<TMP_Dropdown>().value = PlayerPrefs.GetInt("languageValue");
+        FindObjectOfType<TMP_Dropdown>().RefreshShownValue();
     }
 
     IEnumerator PickRandomChar()
@@ -53,5 +65,20 @@ public class StartGame : MonoBehaviour
     public void PopSound()
     {
         Instantiate(pop);
+    }
+
+    public void SwitchLanguage(TMP_Dropdown dropdown)
+    {
+        PlayerPrefs.SetString("language", dropdown.options[dropdown.value].text);
+        PlayerPrefs.SetInt("languageValue", dropdown.value);
+        Debug.Log(dropdown.options[dropdown.value].text);
+        PlayerPrefs.Save();
+
+        UILocalizer[] uiObjects = FindObjectsOfType<UILocalizer>();
+
+        foreach(UILocalizer ui in uiObjects)
+        {
+            ui.SwitchLanguage();
+        }
     }
 }

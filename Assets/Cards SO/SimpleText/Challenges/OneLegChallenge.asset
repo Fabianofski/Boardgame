@@ -16,3 +16,4 @@ MonoBehaviour:
   Description: "Alle stellen sich auf ein Bein. Wer als erstes umf\xE4llt trinkt!"
   CardSprite: {fileID: 0}
   Color: {r: 0.9411765, g: 1, b: 0, a: 0.4}
+  ID: 29

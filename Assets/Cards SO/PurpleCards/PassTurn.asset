@@ -16,3 +16,4 @@ MonoBehaviour:
   Description: "Setz die n\xE4chste Runde aus."
   CardSprite: {fileID: 21300000, guid: d859cba23450de9499ee9cf437c236e3, type: 3}
   Color: {r: 0.37254903, g: 0, b: 1, a: 0.4}
+  ID: 10

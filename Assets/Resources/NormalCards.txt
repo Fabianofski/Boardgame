@@ -1,0 +1,46 @@
+id	Title_EN	Description_EN	Title_DE	Description_DE
+1	Mirror, Mirror..	Everyone, who wears a bracelet, drinks!	Spieglein, Spieglein..	 Jeder, der ein Armband um hat, trinkt!
+2	Oldie, but Goldie!	Everyone, who is older than 16, drinks!	Alter!	Jeder, der älter als 16 ist, trinkt!
+3	Oldie, but Goldie!	Everyone, who is younger than 16, drinks!	Alter!	Jeder, der jünger als 16 ist, trinkt!
+4	Agony of choice	Choose someone to drink one!	Die Qual der Wahl	Wähle jemanden, der einen trinkt!
+5	Agony of choice	Distribute 2 sips!	Die Qual der Wahl	Verteile 2 Schlücke!
+6	Agony of choice	Distribute 3 sips!	Die Qual der Wahl	Verteile 3 Schlücke!
+7	Agony of choice	Distribute the amount of sips you rolled!	Die Qual der Wahl	Verteile so viele Schlücke, wie du gewürfelt hast!
+8	Partytime!	Dance for 30 seconds to a song of your choice!	Partytime!	Tanze für 30 Sekunden zu einem Song deiner Wahl!
+9	Mirror, Mirror..	Everyone, who wears a dress, drinks!	Spieglein, Spieglein..	Jeder, der ein Kleid an hat, trinkt!
+10	Congratulations!	Drinke one!	Glückwunsch!	Trinke einen!
+11	Congratulations!	Drink two!	Glückwunsch!	Trinke zwei!
+12	Congratulations!	Drink three!	Glückwunsch!	Trinke drei!
+13	Congratulations!	Drink the amount you rolled!	Glückwunsch!	Trinke die Augenzahl deines Würfels!
+14	Congratulations!	Drink one shot!	Glückwunsch!	Trinke einen Shot!
+15	Mirror, Mirror..	Everyone, who wears earrings, drinks!	Spieglein, Spieglein..	Jeder, der Ohrringe an hat, trinkt!
+16	Oldie, but Goldie!	Everyone, with an even Age, drinks!	Alter!	Jeder, der ein gerades Alter hat, trinkt!
+17	Challengetime!	Flip a Coin! If you're wrong, you drink!	Challengetime!	Wirf eine Münze! Liegst du falsch, trinkst du!
+18	Mirror, Mirror..	Everyone, who wears a hat, drinks!	Spieglein, Spieglein..	Jeder, der ein Hut an hat, trinkt!
+19	Challengetime!	Draw the house of Santa Claus! If you fail, you drink!	Challengetime!	Zeichne das Haus vom Nikolaus! Schaffst du es nicht, trinkst du!
+20	Mirror, Mirror..	Everyone, who wears Jeans, drinks!	Spieglein, Spieglein..	Jeder, der eine Jeans an hat, trinkt!
+21	Challengetime!	You count upwards one after another. At every number with the number 2 in it, you have to say Kaboom instead of the number. Who fails, drinks!	Challengetime!	Es wird Reihe rum ab Eins aufwärts gezählt. Bei jeder Zahl, in der die 2 vorkommt, muss man an Stelle der Zahl Kaboom sagen. Wer verkackt trinkt!
+22	Challengetime!	You count upwards one after another. At every number with the number 3 in it, you have to say Kaboom instead of the number. Who fails, drinks!	Challengetime!	Es wird Reihe rum ab Eins aufwärts gezählt. Bei jeder Zahl, in der die 3 vorkommt, muss man an Stelle der Zahl Kaboom sagen. Wer verkackt trinkt!
+23	Challengetime!	You count upwards one after another. At every number with the number 4 in it, you have to say Kaboom instead of the number. Who fails, drinks!	Challengetime!	Es wird Reihe rum ab Eins aufwärts gezählt. Bei jeder Zahl, in der die 4 vorkommt, muss man an Stelle der Zahl Kaboom sagen. Wer verkackt trinkt!
+24	To the left..	Your left neighbour drinks!	Mein linker Platz ist leer..	Dein linker Nebensitzer trinkt einen!
+25	To the left, to the right	Your right and left neighbour drinks!	Beide Plätze sind leer..	Dein linker und rechter Nebensitzer trinken einen!
+26	Challengetime!	Tell a joke! Who laughs drinks!	Challengetime!	Erzähle einen Witz! Wer lacht trinkt!
+27	Thanks for nothing!	Nothing happens!	Danke für Nichts!	Nichts passiert!
+28	Oldie, but Goldie!	Everyone, with an odd Age, drinks!	Alter!	Jeder, der ein ungerades Alter hat, trinkt!
+29	Challengetime!	Everyone stand on one Leg! Who fails first, drinks!	Challengetime!	Alle stellen sich auf ein Bein! Wer als erstes umkippt, trinkt!
+30	Challengetime!	"Play ""My mother went shopping and bought.."". Who fails, drinks!"	Challengetime!	Spielt ich packe meinen Koffer. Wer verliert, trinkt!
+31	Mirror, Mirror..	Everyone, who wears a sweater, drinks!	Spieglein, Spieglein..	Jeder, der einen Pullover an hat, trinkt!
+32	To the right..	Your right neighbour drinks!	Mein rechter Platz ist leer..	Dein rechter Nebensitzer trinkt einen!
+33	Challengetime!	Give a word! Every player has to find a rime for this word! The first player, who can't think of a rime, drinks!	Challengetime!	Gebe ein Wort vor. Jeder Spieler muss nacheinander einen Reim auf dieses Wort finden. Der Spieler, dem als erstes kein Reim mehr einfällt trinkt.
+34	Challengetime!	Play Rock, Paper, Scissors with an opponent of your choice! Who looses, drinks!	Challengetime!	Spiele Schere, Stein, Papier mit einem Gegner deiner Wahl! Der Verlierer trinkt!
+35	Top Secret!	Tell a secret about you or drink!	Top Secret!	Erzähle ein Geheimnis über dich oder Trinke!
+36	Selfietime!	Take a selfie!	Selfietime!	Nimm ein Selfie auf!
+37	Selfietime!	Take a selfie with someone of your choice!	Selfietime!	Nimm ein Selfie mit einer Person deiner Wahl auf!
+38	Selfietime!	Take a selfie with 2 persons of your choice!	Selfietime!	Nimm ein Selfie mit zwei Personen deiner Wahl auf!
+39	Chat?	Show your latest Chat or drink!	Chat?	Zeige deinen letzten Chatverlauf oder Trinke!
+40	Photo?	Show your latest photo of your gallery or drink!	Foto?	Zeige dein Letztes Bild aus deiner Galerie oder Trinke!
+41	Mirror, Mirror..	Everyone, who wears sweatpants, drinks!	Spieglein, Spieglein..	Jeder, der eine Jogginghose an hat, trinkt!
+42	Challengetime!	Play thumbwrestling with an opponent of your choice! Who looses drinks!	Challengetime!	Spiele Daumencatchen mit einem Gegner deiner Wahl! Der Verlierer trinkt!
+43	Best Buddies!	Choose someone as your Drinkbuddy! When your Drinkbuddy drinks, you drink!	Best Buddies!	Wähle jemanden als deinen Trinkbuddy. Immer wenn dein Trinkbuddy trinkt, musst du auch trinken!
+44	Mirror, Mirror..	Everyone, who wears a T-Shirt, drinks!	Spieglein, Spieglein..	Jeder, der ein T-Shirt an hat, trinkt!
+45	Challengetime!	Waterfall! Everyone drinks! You stop drinking one after another!	Challengetime!	Wasserfall! Alle trinken! Es wird in der Reihe aufgehört zu trinken!

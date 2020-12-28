@@ -1,0 +1,5 @@
+id	EN	DE
+continue	continue	weiter
+menu	back to menu	hauptmenü
+pause	pause	pause
+gameover	game over	ende

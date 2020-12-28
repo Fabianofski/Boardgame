@@ -15,7 +15,13 @@ public class Pause : MonoBehaviour
 
     void OnEnable()
     {
-        if(PlayerPrefs.GetInt("volume") == 1)
+        if(!PlayerPrefs.HasKey("volume"))
+            PlayerPrefs.SetInt("volume", 1);
+
+        if (!PlayerPrefs.HasKey("fullscreen"))
+            PlayerPrefs.SetInt("fullscreen", 1);
+
+        if (PlayerPrefs.GetInt("volume") == 1)
            SoundToggle.isOn = true;
         else
            SoundToggle.isOn = false;

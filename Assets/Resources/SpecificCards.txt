@@ -1,0 +1,14 @@
+id	Title_EN	Description_EN	Title_DE	Description_DE
+1	Bad Luck..	Go back one field!	Pech gehabt..	Gehe 1 Feld zurück!
+2	Bad Luck..	Go back two fields!	Pech gehabt..	Gehe 2 Felder zurück!
+3	Bad Luck..	Go back three fields!	Pech gehabt..	Gehe 3 Felder zurück!
+4	Bad Luck..	Go back four fields!	Pech gehabt..	Gehe 4 Felder zurück!
+5	Lucky!	Go forward one field!	Glück gehabt..	Gehe 1 Feld vor!
+6	Lucky!	Go forward two fields!	Glück gehabt..	Gehe 2 Felder vor!
+7	Lucky!	Go forward three fields!	Glück gehabt..	Gehe 3 Felder vor!
+8	Lucky!	Go forward four fields!	Glück gehabt..	Gehe 4 Felder vor!
+9	Bad Luck..	Go back to start!	Was ein Pech!	Gehe zurück zum Start!
+10	Bad Luck..	Pass the next turn!	Was ein Pech!	Setze die nächste Runde aus!
+11	Time for a Switch!	Swap your position with the first player!	Spielertausch!	Tausche deine Position mit dem ersten Spieler!
+12	Time for a Switch!	Swap your position with the last player!	Spielertausch!	Tausche deine Position mit dem letzten Spieler!
+13	Finish!	Congratulations! You crossed the Finishline!	Ende	Herzlichen Glückwunsch! Du bist im Ziel!
