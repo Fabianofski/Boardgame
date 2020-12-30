@@ -159,6 +159,10 @@ public class MovePlayer : MonoBehaviour
     void Skip()
     {
         PlayerIsMoving = false;
+
+        if (TargetField + 1 > waypointContainer.waypoints.Length)
+            TargetField = waypointContainer.waypoints.Length;
+
         transform.position = waypointContainer.waypoints[TargetField - 1].position + targetOffset;
         playerStatsContainer.currentWaypoint = TargetField;
     }

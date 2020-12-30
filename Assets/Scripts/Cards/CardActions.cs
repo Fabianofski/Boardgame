@@ -50,6 +50,7 @@ public class CardActions : MonoBehaviour
 
     public void MovePlayerXPoints(int number)
     {
+        Debug.Log(number + " " + gamecontroller.PlayersTurn);
         gamecontroller.MovePlayerScripts[gamecontroller.PlayersTurn].SetPlayersDestinationTarget(number);
     }
 
@@ -68,7 +69,7 @@ public class CardActions : MonoBehaviour
 
     public void SwitchPlayerWithFirstPlayer()
     {
-        SwitchPositionOfPlayers(leaderboard.PlayersSorted[0 + gamecontroller.PlayersReachedGoal - gamecontroller.Players.Length]);
+        SwitchPositionOfPlayers(leaderboard.PlayersSorted[gamecontroller.Players.Length - gamecontroller.PlayersReachedGoal]);
     }
 
     public void SwitchPlayerWithLastPlayer()
